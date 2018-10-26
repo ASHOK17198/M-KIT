@@ -1,0 +1,2 @@
+SenderAddress = ""
+password = ""
